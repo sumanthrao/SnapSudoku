@@ -4,12 +4,6 @@ SnapSudoku
 *Take a picture of a Sudoku and have SnapSudoku solve it for you!*
 
 
-----------
- TODO:
----------
- - [ ] Improve algorithm to get better Sudoku Grid extraction, make it `more robust against blurs` .
- - [ ] Improve `empty cell detection`. Only a basic logic is used right now. 
-
 Prerequisites:
 -------------
 
@@ -87,13 +81,4 @@ Here are some illustrations of the different stages:
 
 ![Solved Grid](https://lh3.googleusercontent.com/-zWnlGKCz9xs/VxzSmieN5EI/AAAAAAAAH48/DR6t33TSfhgDVe7ew3n0YRKAUJB45rKWACLcB/s500/Solved+Grid.png "Solved Grid")
 ----------
-Contributors
-------------------
-[cclauss](https://github.com/cclauss) <br/>
-[lakshmanaram](https://github.com/lakshmanaram)
 
-I'll be very happy to get new ideas to improve the accuracy and make the application better. Feel free to give a pull request! :smile:
-
-
-
-# sudo-sudoku
